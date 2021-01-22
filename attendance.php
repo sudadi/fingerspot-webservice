@@ -56,7 +56,7 @@ foreach($row as $data) {
 		<th>Name</th>
 		<th>DateTime</th>
 		<th>Verified</th>
-		<th>Status</th>
+		<th>IN/OUT</th>
 	</tr>
 	<?php	foreach($absen as $val) { ?>
 	<tr>
